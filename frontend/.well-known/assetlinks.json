@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.webpushbook",
+    "sha256_cert_fingerprints":
+    ["F4:79:46:79:AC:92:EB:DA:EE:A2:A6:AE:4A:5B:75:8A:CF:A3:22:70:45:4F:BD:A9:3E:22:88:A9:35:C0:FE:B2"]
+  }
+}]
